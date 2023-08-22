@@ -13,7 +13,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/kamlesh-bhavsar-63ba031b6/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Kamlesh Bhavsar" height="30" width="40" /></a>
-  
+  <a href="https://leetcode.com/kamleshvbhavsar753/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="Kamlesh Bhavsar" height="30" width="40" /></a>
 </p>
 <br>
 <br>
